@@ -1,0 +1,9 @@
+Mantener un registro estructurado de cambios mediante herramientas de control de versiones
+es una práctica indispensable en el desarrollo de software porque garantiza la trazabilidad.
+A través de un historial detallado, los programadores pueden identificar con total precisión
+en qué momento se introdujo una modificación, facilitando la detección de fallos y la reversión
+de código inestable a un estado previo funcional sin poner en peligro el proyecto general.
+Asimismo, este sistema optimiza la colaboración en equipos de trabajo multidisciplinarios,
+evitando la sobreescritura accidental de código y permitiendo auditorías técnicas completas.
+En conclusión, el uso de Git aporta orden, seguridad y un estándar profesional que asegura
+la continuidad, estabilidad y mantenimiento a largo plazo de cualquier ecosistema tecnológico.

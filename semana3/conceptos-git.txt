@@ -1,0 +1,5 @@
+Repositorio: Es un espacio estructurado de almacenamiento donde se guardan de forma organizada todos los archivos, carpetas, códigos e historial completo de modificaciones de un proyecto de desarrollo.
+
+Commit: Es un comando que funciona como una captura o fotografía del estado del código en un momento específico, guardando un registro histórico del autor y los cambios implementados de forma permanente.
+
+Push: Es la acción y comando utilizado para enviar todas las actualizaciones, ramas y commits registrados de manera local en la computadora hacia un repositorio remoto alojado en una plataforma web como GitHub.
