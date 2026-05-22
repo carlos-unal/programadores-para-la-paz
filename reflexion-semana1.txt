@@ -1,0 +1,9 @@
+El uso responsable de la información en internet y la participación ciudadana
+están directamente conectados con la ética digital, ya que un ciudadano consciente
+debe validar lo que comparte para evitar la desinformación en su comunidad.
+Por su parte, el trabajo técnico requiere un orden similar para asegurar que los
+proyectos tecnológicos sean confiables y transparentes. Herramientas como Git
+permiten estructurar este proceso mediante un registro claro y ordenado de los
+cambios en el código. Así, un algoritmo o un repositorio reflejan la planeación
+y responsabilidad del desarrollador, uniendo el compromiso cívico digital con las
+buenas prácticas, la organización técnica y la colaboración comunitaria organizada.
