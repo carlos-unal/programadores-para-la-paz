@@ -1,0 +1,5 @@
+Resultados de las pruebas de rutas:
+
+1. http://localhost:3000 -> El navegador muestra el texto "Servidor activo". Esto confirma que la raíz del servidor responde correctamente.
+2. http://localhost:3000/saludo -> El navegador muestra el texto "Hola comunidad". Esta ruta estática funciona según lo esperado.
+3. http://localhost:3000/mensaje/juan -> El navegador muestra "Hola juan". El servidor toma dinámicamente el valor de la URL (:nombre) mediante req.params y lo incluye en la respuesta.
