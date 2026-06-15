@@ -1,7 +1,0 @@
-Análisis de la ruta POST /reporte:
-
-1. ¿Qué hace esta ruta?
-Esta ruta sirve para recibir información que una persona envía desde afuera hacia el servidor. En este caso, el usuario envía un texto (un mensaje) y el servidor le responde con un mensaje automático que dice "Reporte recibido" para avisarle que todo salió bien y que la información llegó correctamente.
-
-2. ¿Para qué podría servir en una aplicación comunitaria?
-Podría servir para que los vecinos manden avisos o quejas desde sus celulares. Por ejemplo, si alguien ve un bache en la calle o una lámpara rota, escribe el reporte en la aplicación, presiona enviar, y esta ruta se encarga de recibir el mensaje para que quede registrado en el sistema.

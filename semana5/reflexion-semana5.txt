@@ -1,9 +1,0 @@
-Las APIs son herramientas muy importantes para ayudar a las comunidades.
-Su función principal es conectar diferentes aplicaciones para que compartan datos de forma limpia.
-Cuando una comunidad quiere organizarse, la información suele dispersarse en muchos lados.
-Gracias a una API, todos los reportes de los vecinos pueden llegar a un mismo lugar central.
-Esto ayuda a que los mensajes, las quejas o las alertas de peligro se reciban en tiempo real.
-Además, la información no se duplica ni se pierde en grupos de chat desorganizados.
-Al recibir todo de manera ordenada, los líderes pueden ver qué problemas son más urgentes.
-Así se pueden solucionar más rápido las fallas de luz, agua o problemas de seguridad.
-En conclusión, una API permite que la tecnología trabaje a favor de la unión y el orden del barrio.
